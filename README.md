@@ -1,4 +1,4 @@
-<h1 align="center">Anotaçções de cursos do Coursera</h1> 
+<h1 align="center">Anotações de cursos do Coursera</h1> 
 
 Códigos utilizados para realizar cursos de programação da plataforma Coursera
 
